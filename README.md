@@ -1,2 +1,2 @@
 # AI-Interview-
-hello  everyone we make ai based in website for placement purpose 
+hello  everyone we make ai based website for placement purpose so this is very helpful 
